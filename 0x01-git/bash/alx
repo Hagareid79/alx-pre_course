@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "ALX"
+^c
+^C
+cd ..
+root@ffa11dae7ac9:~/alx-pre_course/0x01-git/bash# cd ..
